@@ -33,8 +33,6 @@ namespace Settings
         public Dictionary<GranadeType, int> Granades;
         #endregion
 
-
-
         private void OnValidate()
         {
             #region Granades
