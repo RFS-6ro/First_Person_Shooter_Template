@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using Types;
+using Types.Enums;
 using UnityEngine;
 
 namespace Settings
